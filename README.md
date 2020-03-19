@@ -2,7 +2,6 @@
 
 Projeto Final do Curso Técnico em Desenvolvimento de Sistemas do Colégio Pedro II – Campus Duque de Caxias – 2020
 
-<br>
 Alunos: Eduardo José Araújo Oliveira, Nycolli Aparecida Santos Figueiredo, Wallan Alexsander de Aquino Ramos e Rizia Santos da Silva
 
 # Objetivo
