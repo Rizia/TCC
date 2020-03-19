@@ -1,6 +1,6 @@
 # Ordbok
 
-Projeto Final do Curso Técnico em Desenvolvimento de Sistemas do Colégio Pedro II – Campus Duque de Caxias – 2020
+ Projeto Final do Curso Técnico em Desenvolvimento de Sistemas do Colégio Pedro II – Campus Duque de Caxias – 2020
 
 # Integrantes:
 
