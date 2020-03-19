@@ -4,7 +4,10 @@
 
 # Integrantes:
 
-Alunos: Eduardo José Araújo Oliveira, Nycolli Aparecida Santos Figueiredo, Wallan Alexsander de Aquino Ramos e Rizia Santos da Silva
+Alunos: Eduardo José Araújo Oliveira
+Nycolli Aparecida Santos Figueiredo
+Wallan Alexsander de Aquino Ramos
+Rizia Santos da Silva
 
 # Objetivo:
 
