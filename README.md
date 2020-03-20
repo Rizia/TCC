@@ -4,7 +4,7 @@
 
 # Integrantes:
 
-Alunos: Eduardo José Araújo Oliveira<br>
+Alunos: <br>Eduardo José Araújo Oliveira<br>
 Nycolli Aparecida Santos Figueiredo<br>
 Wallan Alexsander de Aquino Ramos<br>
 Rizia Santos da Silva<br>
